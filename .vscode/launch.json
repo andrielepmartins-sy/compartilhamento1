@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index2.html",
+            "file": "c:\\Users\\TEMP.UO007LBM4103668.002\\Documents\\GitHub\\compartilhamento1\\index2.html"
+        }
+    ]
+}
